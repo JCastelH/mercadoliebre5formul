@@ -1,0 +1,68 @@
+/*colores
+amarillo: #EAC926;
+azul: #30264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #3b3b3b;
+verde: #39b54a;*/
+
+* {
+    font-family: 'Roboto', ;
+}
+/*header*/
+
+header{
+    background-color: #EAC926;
+}
+
+h4{
+    font-size: 24px;
+}
+
+.burger-menu
+
+
+/*body*/
+
+p{
+    font-size: 12px;
+}
+
+.descripciones{
+    font-size: 16px;
+}
+
+.descuentos{
+    font-size: 16px;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+/*footer*/
+
+.pie-página {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+.pie-página h3{
+    text-align: center;
+
+}
+
+.pie-página p{
+    display: flexbox;
+    flex-wrap: wrap;
+    color: #666;
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.pie-página svg{
+    width: 2em;
+    display: flexbox;
+    align-items: auto;
+    margin-bottom: 10px
+}
