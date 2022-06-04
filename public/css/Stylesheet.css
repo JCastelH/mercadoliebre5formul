@@ -15,6 +15,8 @@ header{
     background-color: #EAC926;
 }
 
+
+
 h4{
     font-size: 24px;
 }
@@ -26,6 +28,7 @@ h4{
 .burger-menu
 
 /*main*/
+
 
 main {
     width: 90%;
@@ -47,7 +50,6 @@ article main{
     display: flex;
     flex-wrap: wrap;
     text-align: left;
-    /*border: 15px;*/
     border-color: #ebebeb;
     align-items: center;
 
@@ -67,6 +69,21 @@ body{
     background-color: #ebebeb;
 }
 
+button{
+    margin: 10px;
+    background-color: #0034ffff;
+    border-color: #0034ffff;
+    border-radius: 5%;
+}
+
+input {
+    padding: 0px 0px 0px 10px;
+}
+
+.banner img{
+    width: 100%
+}
+
 img {
     width: 90%;
 }
@@ -83,6 +100,12 @@ p{
 .descuentos{
     font-size: 16px;
     color: #39b54a;
+}
+
+
+.formulario{
+    padding: 0px 0px 0px 15px;
+
 }
 
 .precios{
@@ -128,6 +151,9 @@ p{
     }
     .descripciones{
         display: inline;
+    }
+    .banner img{
+        width: 100%
     }
     img {
         width: 310px;

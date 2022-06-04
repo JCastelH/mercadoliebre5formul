@@ -11,5 +11,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCastelH/MercadoLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JCastelH/MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/JCastelH/MercadoLiebre#readme",
   "description": ""
 }
